@@ -22,7 +22,7 @@
 | 3 | Refactoring | https://github.com/SoftwareEngineering2026/Tasks/blob/main/103_Refactoring.md |
 | 4 | Docker | https://github.com/SoftwareEngineering2026/Tasks/blob/main/104_Docker.md |
 | 5 | Docker Compose | https://github.com/SoftwareEngineering2026/Tasks/blob/main/105_Docker_compose.md |
-| 6 | CI/CD | https://github.com/SoftwareEngineering2026/Tasks/blob/main/106_CI_CD.md |
+| 6 | Continuous Integration | https://github.com/SoftwareEngineering2026/Tasks/blob/main/106_CI.md |
 | 7 | Monitoring | https://github.com/SoftwareEngineering2026/Tasks/blob/main/107_Monitoring.md |
 | 8 | Security | https://github.com/SoftwareEngineering2026/Tasks/blob/main/108_Security.md |
 
